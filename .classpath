@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day_1_ConnectingEclipseWithGitHub/src"/>
+	<classpathentry kind="src" path="Day-2_Datatypes/src"/>
+	<classpathentry kind="src" path="Day-3_Operators/src"/>
+	<classpathentry kind="output" path="Day-2_Datatypes/bin"/>
+</classpath>
