@@ -1,5 +1,7 @@
 package com.cg.stringdemo;
 
+import java.util.Scanner;
+
 public class StringMethodsDemo {
 
 	public static void main(String[] args) {
